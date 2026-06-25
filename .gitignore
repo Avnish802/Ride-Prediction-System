@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+data/*.db
+data/*.db-*
+finalenv/
+.idea/
+logs/
+pytest-cache-files-*/
+.pytest_tmp/
+/*.log
+# Ride Fare Comparision local environment files
+.env
+finalenv/
+
+# Python cache and test artifacts
+__pycache__/
+*.pyc
+.pytest_cache/
